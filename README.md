@@ -1,0 +1,2 @@
+# javascripti
+ estudando java scripti
